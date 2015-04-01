@@ -1,4 +1,5 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# Chocolate Feast
+
 T = int(raw_input())
 for i in range (0,T):
     dollars,chock_price,wrap_change = [int(x) for x in raw_input().split(' ')]

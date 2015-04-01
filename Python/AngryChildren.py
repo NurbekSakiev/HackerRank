@@ -1,3 +1,5 @@
+# Angry Children
+
 n = input()
 k = input()
 candies = [input() for _ in range(0,n)]

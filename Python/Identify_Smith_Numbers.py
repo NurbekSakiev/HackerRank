@@ -1,3 +1,5 @@
+# Identify Smith Numbers
+
 n = int(raw_input())
 j = 2
 total = 0

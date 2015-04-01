@@ -1,7 +1,4 @@
-#!/bin/python
-
-# Complete the function below.
-
+# Maximizing XOR
 
 def  maxXor( l,  r):
     max = 0

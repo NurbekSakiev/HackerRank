@@ -1,3 +1,5 @@
+# Kaprekar Numbers
+
 def kaprekar_numbers(x):
 	l = str(x*x)
 	return x == int(l[:len(l)/2] or 0) + int(l[len(l)/2:])

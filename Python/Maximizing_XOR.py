@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Maximizing XOR
+# author: Nurbek Sakiev
 
 def  maxXor( l,  r):
     max = 0

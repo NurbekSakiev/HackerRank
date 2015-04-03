@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Filling Jars
+# author: Nurbek Sakiev
 
 n,m = (int(i) for i in raw_input().split())
 total = 0

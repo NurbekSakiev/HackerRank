@@ -1,4 +1,6 @@
-## Service Lane
+# Hacker Rank (www.hackerrank.com)
+# Service Lane
+# author: Nurbek Sakiev
 
 ## Version 1.0
 

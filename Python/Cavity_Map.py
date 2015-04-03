@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Cavity Map
+# author: Nurbek Sakiev
 
 n = int(raw_input())
 for i in xrange(n):

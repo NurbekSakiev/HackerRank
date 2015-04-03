@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Kaprekar Numbers
+# author: Nurbek Sakiev
 
 def kaprekar_numbers(x):
 	l = str(x*x)

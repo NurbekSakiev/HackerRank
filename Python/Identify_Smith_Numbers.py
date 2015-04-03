@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Identify Smith Numbers
+# author: Nurbek Sakiev
 
 n = int(raw_input())
 j = 2

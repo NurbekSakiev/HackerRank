@@ -1,4 +1,7 @@
+# Hacker Rank (www.hackerrank.com)
 # Song of Pi
+# author: Nurbek Sakiev
+
 import string
 T = int(raw_input())
 pi = "31415926535897932384626433833"

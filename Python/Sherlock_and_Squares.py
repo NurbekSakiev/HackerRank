@@ -1,4 +1,7 @@
+# Hacker Rank (www.hackerrank.com)
 # Sherlock and Squares
+# author: Nurbek Sakiev
+
 import math
 
 t = int(raw_input())

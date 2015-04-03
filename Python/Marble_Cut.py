@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Marble Cut
+# author: Nurbek Sakiev
 
 t = int(raw_input())
 for i in range(t):

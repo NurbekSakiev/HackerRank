@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Angry Children
+# author: Nurbek Sakiev
 
 n = input()
 k = input()

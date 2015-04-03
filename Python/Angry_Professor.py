@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Angry Professor
+# author: Nurbek Sakiev
 
 T = int(raw_input())
 list = []

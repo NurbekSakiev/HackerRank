@@ -1,4 +1,6 @@
-# is Fibo
+# Hacker Rank (www.hackerrank.com)
+# Is Fibo
+# author: Nurbek Sakiev
 
 from math import *
 for _ in range(int(raw_input())):

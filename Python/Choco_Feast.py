@@ -1,4 +1,6 @@
+# Hacker Rank (www.hackerrank.com)
 # Chocolate Feast
+# author: Nurbek Sakiev
 
 T = int(raw_input())
 for i in range (0,T):

@@ -9,4 +9,4 @@ for i in xrange(Q):
     q = int(raw_input())
     l = math.sqrt(2*q)
     res = abs(math.sqrt(2*math.pow(L,2))-l)/(abs(s1-s2))
-    print format(res, '.20f') 
+    print format(res, '10.22f') 

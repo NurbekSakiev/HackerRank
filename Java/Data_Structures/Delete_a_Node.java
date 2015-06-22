@@ -2,18 +2,7 @@
 // Delete a Node
 // author: Nurbek Sakiev
 
-/*
-  Insert Node at the end of a linked list 
-  head pointer input could be NULL as well for empty list
-  Node is defined as 
-  class Node {
-     int data;
-     Node next;
-  }
-*/
-
 Node Delete(Node head, int position) {
-  // Complete this method
     Node temp = head;
     if (position == 0) {
         head = head.next;

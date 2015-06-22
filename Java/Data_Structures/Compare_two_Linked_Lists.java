@@ -1,4 +1,3 @@
-
 // Hacker Rank (www.hackerrank.com)
 // Compare two linked lists
 // author: Nurbek Sakiev
